@@ -25,3 +25,10 @@ The Caesar Cipher shifts each letter in a message by a fixed number of positions
 
 ```bash
 $ python main.py
+
+## 📞 Contact Me
+
+Feel free to connect or reach out:
+
+- 📧 **Email**: `piyush.siingh2005@gmail.com`  
+- 🔗 **LinkedIn**: [Piyush Singh](https://www.linkedin.com/in/piyush-singh-0b276332a)
