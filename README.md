@@ -83,3 +83,7 @@ The Caesar Cipher is one of the earliest known encryption techniques, where each
 - 📜 Inspired by classic cryptography  
 - 🐍 Made with Python and ❤️  
 - 👩‍🏫 Supported by educators encouraging hands-on learning
+
+
+## License
+This project is licensed under the MIT License.
