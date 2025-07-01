@@ -75,7 +75,7 @@ The Caesar Cipher is one of the earliest known encryption techniques, where each
 📧 [piyush.siingh2005@gmail.com](mailto:piyush.siingh2005@gmail.com)  
 🔗 [GitHub](https://github.com/piyushsiingh)  
 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-singh-0b276332a)  
-🌐 [Portfolio](https://bento.me/piyushsiingh)
+🌐 [Portfolio](https://piyushsiingh.netlify.app)
 
 ---
 
