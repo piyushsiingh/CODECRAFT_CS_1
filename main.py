@@ -26,7 +26,12 @@ while True:
     animate_text("\n=== Caesar Cipher Tool ===", 0.03)
     choice = input("Type 'e' to encrypt or 'd' to decrypt: ").lower()
     message = input("Enter your message: ")
-    shift = int(input("Enter shift value (number): "))
+    
+    try:
+        shift = int(input("Enter shift value (number): "))
+    except ValueError:
+        animate_text("Invalid shift value. Please enter a number.", 0.05)
+        continue
 
     if choice == 'e':
         animate_text("\nEncrypting your message...", 0.04)
@@ -41,7 +46,6 @@ while True:
     else:
         animate_text("Invalid choice. Please enter 'e' or 'd'.", 0.05)
 
-    # Ask user if they want to continue
     again = input("\nDo you want to try another message? (yes/y/no/n): ").strip().lower()
     if again not in ['yes', 'y']:
         animate_text("Thank you for using Caesar Cipher Tool. Goodbye! 🛡️", 0.05)
